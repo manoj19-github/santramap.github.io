@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/santramap.github.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/santramap.github.io/static/js/main.5077ea70.chunk.js",
+    "main.js.map": "/santramap.github.io/static/js/main.5077ea70.chunk.js.map",
+    "runtime-main.js": "/santramap.github.io/static/js/runtime-main.af3ed45f.js",
+    "runtime-main.js.map": "/santramap.github.io/static/js/runtime-main.af3ed45f.js.map",
+    "static/css/2.5dfa258f.chunk.css": "/santramap.github.io/static/css/2.5dfa258f.chunk.css",
+    "static/js/2.58833846.chunk.js": "/santramap.github.io/static/js/2.58833846.chunk.js",
+    "static/js/2.58833846.chunk.js.map": "/santramap.github.io/static/js/2.58833846.chunk.js.map",
+    "static/js/3.7bca471c.chunk.js": "/santramap.github.io/static/js/3.7bca471c.chunk.js",
+    "static/js/3.7bca471c.chunk.js.map": "/santramap.github.io/static/js/3.7bca471c.chunk.js.map",
+    "index.html": "/santramap.github.io/index.html",
+    "static/css/2.5dfa258f.chunk.css.map": "/santramap.github.io/static/css/2.5dfa258f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/santramap.github.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.58833846.chunk.js.LICENSE.txt": "/santramap.github.io/static/js/2.58833846.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/santramap.github.io/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/logo.6ce24c58.svg": "/santramap.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af3ed45f.js",
+    "static/css/2.5dfa258f.chunk.css",
+    "static/js/2.58833846.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5077ea70.chunk.js"
+  ]
+}
