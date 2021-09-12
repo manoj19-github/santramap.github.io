@@ -1,6 +1,6 @@
 {
   "name": "travelapp",
-  "homepage": "https://manoj19-github.github.io/santramaps",
+  "homepage": "https://manoj19-github.github.io/santramap.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,6 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
+    "clean":"gh-pages-clean",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
