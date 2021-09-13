@@ -21,7 +21,8 @@ function Header({setCoordinates,onLoad,onPlaceChanged}) {
 
 
         <Box display="flex">
-          
+          <p style={{color:"white"}}>Powered By SantraTravels</p>
+
         {/*   <Autocomplete onLoad={onLoad} onPlaceChanged={onPlaceChanged}>
             <div className={classes.search}>
               <div className={classes.searchIcon}>
